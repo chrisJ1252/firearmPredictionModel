@@ -1,4 +1,4 @@
-#Weapon Detection Using Transfer Learning with MobileNetV2
+# Weapon Detection Using Transfer Learning with MobileNetV2
 This project aims to build an image classification model that can detect different types of weapons in images using transfer learning with the pre-trained MobileNetV2 architecture. The model is trained on a custom dataset of weapon images and fine-tuned for classification tasks.
 
 Table of Contents
